@@ -8,7 +8,7 @@
 </head>
 <body>
     <center>
-        <h1>Didier Euán n</h1>
+        <h1>Didier Gerardo Euán n</h1>
     </center>
 </body>
 </html>
